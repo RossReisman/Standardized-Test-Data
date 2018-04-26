@@ -9,7 +9,7 @@ This is a simple Data Analysis project that showcases my basic ability to perfor
 
 Additionally, this was the first project from my Data Science Immersive Bootcamp at General Assembly. (Hence the prompts)
 
----
+
 ### Data
 
 You can see the source for the SAT data [here](https://blog.prepscholar.com/average-sat-scores-by-state-most-recent), and the source for the ACT data [here](https://blog.prepscholar.com/act-scores-by-state-averages-highs-and-lows).
