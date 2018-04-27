@@ -1,6 +1,8 @@
 ### Overview
 
-For this project, we're going to take a look at SAT and ACT scores and participation rates around the United States for the class of 2017. The prompt for this project was to recommend to the College Board - the organization that administers the SAT - how to improve the participation rate of its exams. 
+For this project, we're going to take a look at SAT and ACT scores and participation rates around the United States for the class of 2017. The prompt for this project was to recommend to the College Board - the organization that administers the SAT - how to improve the participation rate of its exams.
+
+My recommendation was that The College Board phase out the SAT and adopt the ACT since it had much higher participation rates overall.
 
 
 ### Motivation
